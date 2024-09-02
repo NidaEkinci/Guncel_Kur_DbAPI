@@ -1,0 +1,6 @@
+@Guncel_Kur_DbAPI_HostAddress = http://localhost:5281
+
+GET {{Guncel_Kur_DbAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
